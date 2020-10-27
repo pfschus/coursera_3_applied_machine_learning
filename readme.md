@@ -44,3 +44,29 @@ University of Michigan
     * Perform classification on mushroom species  
     
 ![Week 2 Assignment 2](week_2/polynomial_fits.png)
+
+# Week 3: Model evaluation and selection  
+
+* [Notes](week_3/week_3.ipynb)  
+    * Accuracy  
+    * Using a dummy classifier  
+    * Binary prediction outcomes, confusion matrix  
+    * Decision function  
+* [Assignment 3](week_3/Assignment+3.ipynb)  
+    * Train several models to predict instances of fraud in credit card transactions  
+    * Calculate accuracy using a dummy classifier, an SVC classifier, and logistic regression  
+    * Generate a precision curve and a ROC curve  
+    
+# Week 4: Supervised machine learning part two
+
+* [Notes](week_4/week_4_notes.ipynb)  
+    * Naive Bayes classifiers  
+    * Random forests  
+    * Gradient-boosted decision trees  
+    * Neural networks  
+* Assignment 4  
+    * [Explore the data](week_4/Assignment+4+explore.ipynb)    
+    * [Solution here](week_4/Assignment+4+solution.ipynb)  
+    * Predict property maintenance fines for the city of Detroit  
+    * Clean up the data and implement random forest classifier  
+    * Return predictions, which are scored with area under ROC curve (AUC)  
